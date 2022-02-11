@@ -1,0 +1,27 @@
+.menu {
+  position: absolute;
+  top: 20px;
+  right: 10%;
+  font-weight: bold;
+  display: flex;
+}
+.menu a{
+  text-decoration: 14px;
+}
+
+.social {
+  margin-right: 14px;
+  display: flex;
+  align-items: center;
+
+}
+
+.menu-item{
+
+  color: #2c302e;
+  background: #fff;
+  padding: 12px 24px;
+  border-radius: 4px;
+  margin-right: 14px;
+
+}
